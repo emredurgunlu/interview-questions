@@ -1,3 +1,8 @@
+
+https://interview-questions-emre.netlify.app/
+
+**<p align="center">&#9786; Happy Coding &#9997;</p>**
+
 <p>Clarusway<img align="right"
   src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
@@ -73,7 +78,3 @@ Build a Interview Accord App using ReactJS.
 
 - You can add additional functionalitiesto your app.
 
-## Demo
-  <a href="https://interviewaccord.vercel.app/" target="_blank">React Interview Accord</a>
-
-**<p align="center">&#9786; Happy Coding &#9997;</p>**
